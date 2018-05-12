@@ -1,0 +1,45 @@
+_repo: The-Lost-Heir_36975
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36975-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: ''
+gutenberg_issued: '2011-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36975'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kidnapping -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Youth -- Juvenile fiction'
+- !lcsh 'Murder -- Juvenile fiction'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Forgers -- Juvenile fiction'
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcsh 'Diligence -- Juvenile fiction'
+- !lcsh 'War -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Impostors and imposture -- Juvenile fiction'
+- !lcsh 'India -- Juvenile fiction'
+- !lcsh 'Wills -- Juvenile fiction'
+- !lcsh 'Nurses -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Inheritance and succession -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'England -- Fiction'
+title: The Lost Heir
+url: http://www.gutenberg.org/ebooks/36975
